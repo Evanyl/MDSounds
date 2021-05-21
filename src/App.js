@@ -10,6 +10,7 @@ function App() {
           <div className="row">
             <Button soundSrc="./sounds/aye_sir.mp3" name="AYE SIR" />
             <Button soundSrc="./sounds/dont.mp3" name="DON'T" />
+            <Button soundSrc="./sounds/you_know.mp3" name="YOU KNOW" />
           </div>
         </div>
       </header>
